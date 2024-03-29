@@ -1,0 +1,11 @@
+
+        
+        .center-footer {
+          display: flex;
+          justify-content: center;
+          letter-spacing: 1px;
+          word-spacing: 3px;
+          span{
+            transform: translateY(40%);
+          }
+        }
